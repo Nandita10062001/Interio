@@ -81,16 +81,16 @@
 
 <div align="center">
 
-**Frontend & UI**
+**Frontend & UI** <br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**3D Engine & Graphics**
+**3D Engine & Graphics** <br>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Backend & Processing**
+**Backend & Processing** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -179,7 +179,7 @@ graph LR
 
 ---
 
-## 👥 Project Team
+### 👥 Project Team
 
 <div align="center">
 
@@ -224,7 +224,7 @@ Special gratitude to:
 
 ---
 
-## 📱 Application Workflow
+### 📱 Application Workflow
 
 ```mermaid
 graph TD
@@ -256,7 +256,7 @@ graph TD
 ```
 
 
-## 🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 **Planned Features**
 
