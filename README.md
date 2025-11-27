@@ -2,7 +2,7 @@
 
 # 🏠 Interio
 
-### *A One-Stop Solution For All Your Interior Designing Hurdles*
+**A One-Stop Solution For All Your Interior Designing Hurdles**
 
 [![Published Paper](https://img.shields.io/badge/IJRASET-Volume%2011%20Issue%20II-success?style=for-the-badge)](https://www.ijraset.com/best-journal/an-indepth-evaluation-of-arbased-interior-design-and-decoration-applications)
 [![Conference](https://img.shields.io/badge/IC2E3%202023-Presented-blue?style=for-the-badge)]()
