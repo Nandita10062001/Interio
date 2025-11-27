@@ -14,6 +14,7 @@
 
 </div>
 
+<div align="justify">
 ### 📖 Overview
 
 **Interio** is a revolutionary cross-platform mobile application that bridges the gap between imagination and reality in interior design. Unlike existing AR-based applications that rely on unstable live camera feeds, Interio generates **persistent 3D room models** from 2D floor plans, allowing users to design, customize, and save their interior layouts with complete creative freedom.
@@ -80,16 +81,16 @@
 
 <div align="center">
 
-### **Frontend & UI**
+**Frontend & UI**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **3D Engine & Graphics**
+**3D Engine & Graphics**
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### **Backend & Processing**
+**Backend & Processing**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -130,7 +131,7 @@ graph LR
 
 ## 🎓 Research Publications
 
-### 📄 **Published Papers**
+📄 **Published Papers**
 
 <table>
 <tr>
@@ -182,29 +183,29 @@ graph LR
 
 <div align="center">
 
-### **Developed at SIES Graduate School of Technology, Navi Mumbai**
+**Developed at SIES Graduate School of Technology, Navi Mumbai**
 
 <table>
 <tr>
 <td align="center">
-<h4>👨‍🎓 Nandita Nandakumar</h4>
+<b>👨‍🎓 Nandita Nandakumar</b>
 <strong>Lead Developer & Researcher</strong><br>
 Computer Vision & Algorithms
 </td>
 <td align="center">
-<h4>👨‍🎓 Nipun Manghi</h4>
+<b>👨‍🎓 Nipun Manghi</b>
 <strong>Core Developer</strong><br>
 Flutter & Unity Integration
 </td>
 <td align="center">
-<h4>👨‍🎓 Saahith Shetty</h4>
+<b>👨‍🎓 Saahith Shetty</b>
 <strong>Core Developer</strong><br>
 3D Modeling & Backend
 </td>
 </tr>
 <tr>
 <td colspan="3" align="center">
-<h4>👩‍🏫 Dr. Deepti Reddy</h4>
+<b>👩‍🏫 Dr. Deepti Reddy</b>
 <strong>Project Guide & Mentor</strong><br>
 Computer Science Department
 </td>
@@ -257,7 +258,7 @@ graph TD
 
 ## 🚀 Future Enhancements
 
-### **Planned Features**
+**Planned Features**
 
 **🤖 AI & Machine Learning**
 - [ ] CNN-based style classification (Modern, Royal, Chic, Minimalist)
@@ -344,7 +345,7 @@ All technical details including:
 
 Available in published papers and upon code access.
 
-
+</div>
 ---
 
 ### 📖 How to Cite
