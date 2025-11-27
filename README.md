@@ -15,6 +15,7 @@
 </div>
 
 <div align="justify">
+    
 ### 📖 Overview
 
 **Interio** is a revolutionary cross-platform mobile application that bridges the gap between imagination and reality in interior design. Unlike existing AR-based applications that rely on unstable live camera feeds, Interio generates **persistent 3D room models** from 2D floor plans, allowing users to design, customize, and save their interior layouts with complete creative freedom.
@@ -190,7 +191,7 @@ graph LR
 <td align="center">
 <b>👨‍🎓 Nandita Nandakumar</b>
 <strong>Lead Developer & Researcher</strong><br>
-Computer Vision & Algorithms
+ML, Computer Vision & Algorithms
 </td>
 <td align="center">
 <b>👨‍🎓 Nipun Manghi</b>
@@ -380,7 +381,7 @@ For licensing inquiries, please contact the team via the emails provided above.
 
 ### 🌟 Star History
 
-If you find this project interesting, please consider starring the repository (once made public) to show your support!
+If you find this project interesting, please consider starring the repository to show your support!
 
 ---
 
