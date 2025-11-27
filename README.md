@@ -374,7 +374,6 @@ The complete source code for **Interio** is currently **private** for intellectu
 
 - 📄 **Full Thesis Report**: `FinalReport_BlackBook.pdf` 
 - 📊 **Springer Conference Paper**: Complete methodology and results
-- 🎓 **IJRASET Publication**: AR-based systems comparative analysis
 - 📈 **Project Presentation**: Slide deck with architecture diagrams
 - 🎥 **Demo Videos**: Application walkthrough and feature showcase
 
