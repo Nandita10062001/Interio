@@ -20,10 +20,6 @@
 
 ### 🎯 The Problem We Solved
 
-<table>
-<tr>
-<td width="50%">
-
 **Existing Solutions Fall Short:**
 - ❌ Require holding phone camera steady
 - ❌ Only show items in specific areas
@@ -32,9 +28,6 @@
 - ❌ No complete room visualization
 - ❌ Difficult UI for non-technical users
 
-</td>
-<td width="50%">
-
 **Interio Delivers:**
 - ✅ Stable 3D models from floor plans
 - ✅ Complete 360° room visualization
@@ -42,10 +35,6 @@
 - ✅ Full color & texture customization
 - ✅ Entire infrastructure planning
 - ✅ Intuitive, user-friendly interface
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -57,41 +46,26 @@
 📐 2D Floor Plan → 🎨 3D Room Model → 🪑 Furniture Placement → 💾 Design Storage
 ```
 
-<table>
-<tr>
-<td width="33%">
-
-#### 🔄 **Automated 3D Modeling**
+🔄 **Automated 3D Modeling**
 - Upload hand-drawn or digital blueprints
 - AI-powered edge & corner detection
 - Automatic wall, door & window recognition
 - Accurate dimensional conversion
 
-</td>
-<td width="33%">
-
-#### 🎨 **Smart Design Studio**
+🎨 **Smart Design Studio**
 - 360° room navigation
 - Drag-and-drop furniture placement
 - Real-time color customization
 - Material & texture modifications
 - Complete wall paint options
 
-</td>
-<td width="33%">
-
-#### 💾 **Design Management**
+💾 **Design Management**
 - Save unlimited room designs
 - Revisit and modify anytime
 - Share designs with clients
 - Export final visualizations
 - Cloud-based storage
 
-</td>
-</tr>
-</table>
-
-</div>
 
 #### 🤖 **AI-Powered Features**
 
@@ -162,7 +136,7 @@ graph LR
 <tr>
 <td width="33%">
 
-#### 1️⃣ **IJRASET**
+1️⃣ **IJRASET**
 **Volume 11 Issue II**  
 *February 2023*
 
@@ -173,7 +147,7 @@ graph LR
 </td>
 <td width="33%">
 
-#### 2️⃣ **IC2E3 2023**
+2️⃣ **IC2E3 2023**
 **International Conference**
 
 "Interio: A One-Stop Solution For All Your Interior Designing Hurdles"
@@ -183,7 +157,7 @@ graph LR
 </td>
 <td width="33%">
 
-#### 3️⃣ **ICACCD 2024**
+3️⃣ **ICACCD 2024**
 **Springer Conference**
 
 "Automated 2D-to-3D Room Modeling and Real-Time Object Placement"
@@ -285,50 +259,31 @@ graph TD
 
 ### **Planned Features**
 
-<table>
-<tr>
-<td width="50%">
-
-#### **🤖 AI & Machine Learning**
+**🤖 AI & Machine Learning**
 - [ ] CNN-based style classification (Modern, Royal, Chic, Minimalist)
 - [ ] YOLO v8 for real-time object detection
 - [ ] AI design recommendations based on room dimensions
 - [ ] Automated furniture arrangement optimization
 
-</td>
-<td width="50%">
-
-#### **🛒 E-Commerce Integration**
+**🛒 E-Commerce Integration**
 - [ ] In-app payment gateway (Razorpay/Stripe)
 - [ ] Partnership with IKEA, Pepperfry, Urban Ladder
 - [ ] Price comparison across vendors
 - [ ] Virtual showroom tours
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### **👥 Collaboration Features**
+**👥 Collaboration Features**
 - [ ] Multi-user design sessions
 - [ ] Real-time design sharing with clients
 - [ ] Comment and annotation system
 - [ ] Version control for designs
 
-</td>
-<td width="50%">
-
-#### **🎯 Advanced Visualization**
+**🎯 Advanced Visualization**
 - [ ] AR preview mode for on-site visualization
 - [ ] VR support for immersive walkthroughs
 - [ ] Lighting simulation (natural & artificial)
 - [ ] Day/night mode previews
 
-</td>
-</tr>
-</table>
-
-### **Technical Improvements**
+**Technical Improvements**
 - Improve hand-drawn blueprint accuracy to 90%+
 - Reduce 3D model generation time by 40%
 - Implement progressive loading for large models
@@ -338,9 +293,9 @@ graph TD
 ---
 
 
-## 🔐 Code Access
+### 🔐 Code Access
 
-### 📩 **Request Repository Access**
+📩 **Request Repository Access**
 
 The complete source code for **Interio** is currently **private** for intellectual property protection. We welcome collaboration and are open to sharing code for:
 
@@ -349,7 +304,7 @@ The complete source code for **Interio** is currently **private** for intellectu
 ✅ **Industry Collaboration** - Partnership opportunities with interior design companies  
 ✅ **Open Source Contribution** - After official app launch  
 
-### **Contact for Code Access**
+**Contact for Code Access**
 
 <div align="center">
 
@@ -359,7 +314,7 @@ The complete source code for **Interio** is currently **private** for intellectu
 
 </div>
 
-### **What to Include in Your Request**
+**What to Include in Your Request**
 - Your name and affiliation (university/company)
 - Purpose of access (research/education/collaboration)
 - Specific components of interest (if partial access needed)
@@ -368,16 +323,16 @@ The complete source code for **Interio** is currently **private** for intellectu
 
 ---
 
-## 📚 Documentation
+### 📚 Documentation
 
-### **Available Resources (on request via email)**
+**Available Resources (on request via email)**
 
 - 📄 **Full Thesis Report**: `FinalReport_BlackBook.pdf` 
 - 📊 **Springer Conference Paper**: Complete methodology and results
 - 📈 **Project Presentation**: Slide deck with architecture diagrams
 - 🎥 **Demo Videos**: Application walkthrough and feature showcase
 
-### **Technical Documentation**
+**Technical Documentation**
 
 All technical details including:
 - Algorithm pseudocode
@@ -392,11 +347,11 @@ Available in published papers and upon code access.
 
 ---
 
-## 📖 How to Cite
+### 📖 How to Cite
 
 If you use or reference this work in your research, please cite:
 
-### **APA Format**
+**APA Format**
 ```
 Nandakumar, N., Manghi, N., Shetty, S., & Reddy, D. (2023). 
 An In-Depth Evaluation of AR-Based Interior Design and Decoration Applications. 
@@ -404,7 +359,7 @@ International Journal for Research in Applied Science and Engineering Technology
 11(2). https://www.ijraset.com/best-journal/an-indepth-evaluation-of-arbased-interior-design-and-decoration-applications
 ```
 
-### **IEEE Format**
+**IEEE Format**
 ```
 N. Nandakumar, N. Manghi, S. Shetty, and D. Reddy, 
 "Automated 2D-to-3D Room Modeling and Real-Time Object Placement: 
@@ -414,7 +369,7 @@ in Proc. Int. Conf. Advanced Computing and Communication Design (ICACCD), 2024.
 
 ---
 
-## 📜 License
+### 📜 License
 
 This project is currently under **proprietary license**. All rights reserved.
 
@@ -422,7 +377,7 @@ For licensing inquiries, please contact the team via the emails provided above.
 
 ---
 
-## 🌟 Star History
+### 🌟 Star History
 
 If you find this project interesting, please consider starring the repository (once made public) to show your support!
 
@@ -438,7 +393,7 @@ If you find this project interesting, please consider starring the repository (o
 
 © 2023 Interio Team. All Rights Reserved.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandita-nandakumar-1320a91b0/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandita19@siesgst.ac.in)
 
 </div>
